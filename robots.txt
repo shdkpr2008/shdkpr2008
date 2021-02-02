@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Taha-Abbas-CV.pdf
+Sitemap: https://www.tahaabbas.com/sitemap.xml
