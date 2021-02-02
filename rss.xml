@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Taha Abbas</title>
+        <link>https://www.tahaabbas.com/index.html</link>
+        <description>Taha Abbas's personal website</description>
+        <item>
+            <title>Homepage</title>
+            <link>https://www.tahaabbas.com/index.html</link>
+            <description>Taha Abbas's personal website</description>
+        </item>
+    </channel>
+</rss>
